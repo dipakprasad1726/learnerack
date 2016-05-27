@@ -1,0 +1,36 @@
+{
+  "name": "learnerack",
+  "version": "1.0.0",
+  "description": "A startup website for educational portal for students to interact  with each other and contribute to the community.",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "python -m http.server 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipakprasad1726/learnerack.git"
+  },
+  "keywords": [
+    "Online",
+    "Admission",
+    "Portal",
+    "For",
+    "Students",
+    "to",
+    "get",
+    "admission",
+    "in",
+    "colleges."
+  ],
+  "author": "Bhushan.Gadekar,Deepak.Prasad,Shahrukh.Khan,Chandan.Gupta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dipakprasad1726/learnerack/issues"
+  },
+  "homepage": "https://github.com/dipakprasad1726/learnerack#readme"
+}
