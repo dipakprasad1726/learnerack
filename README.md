@@ -1,2 +1,0 @@
-# learnerack
-Leanrning and developement
